@@ -3,7 +3,7 @@
 And I am a curious embedded software engineer interested in computer architectures, (wireless) networks, compilers, machine code, robotics, programming in general, and many other topics.
 
 My most significant open source contributions are to [TCE](https://github.com/cpc/tce/commits/master?author=sander.ruben@tuni.fi), an open source toolset for designing and programming application-specific instruction-set processors (ASIP).\
-I did my master [thesis](https://pure.tue.nl/ws/portalfiles/portal/175415299/Ruben_S..pdf) research on the TCE compiler and software pipelining.
+I did my master [thesis](https://research.tue.nl/en/studentTheses/llvm-based-software-pipelining-for-customizable-exposed-datapath-) research on the TCE compiler and software pipelining.
 
 I sometimes join a CTF, do some other programming challenges or attend CCC events in the Netherlands or Germany.
 <!--
